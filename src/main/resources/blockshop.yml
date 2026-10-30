@@ -1,0 +1,11 @@
+# Shop Editor settings - used by /shop editor
+SHOP_EDITOR:
+  MENU_NAME: '&8Item Shop'
+  DEFAULT_CATEGORY: ''
+  DEFAULT:
+    NAME: '&f%item_name%'
+    LORE:
+      - '&ePrice: &2$&a%price%'
+    PRICE: 100
+    QUANTITY: 1
+  CATEGORIES: {}
